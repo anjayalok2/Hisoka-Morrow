@@ -16,10 +16,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288292024190','62882920241908']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6283830815715','6282124245042']
+global.packname = '𝑀𝑒𝑙𝑙 💫'
 global.author = '\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n'
-global.sessionName = 'hisoka'
+global.sessionName = 'Xrzz'
 global.connVersion = [2, 2142, 12]
 global.prefa = '!'
 global.sp = '⭔'
